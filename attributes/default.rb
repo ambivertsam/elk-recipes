@@ -1,0 +1,5 @@
+default['elk']['java'] = 'java-1.7.0-openjdk'
+default['elk']['esearch'] = 'elasticsearch'
+default['elk']['log'] = 'logstash'
+default['elk']['kibana'] = 'kibana'
+default['elk']['filebeat'] = 'filebeat'

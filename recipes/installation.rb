@@ -1,7 +1,7 @@
 #
 # Cookbook:: elk
-# Recipe:: default
+# Recipe:: installation
 #
 # Copyright:: 2022, The Authors, All Rights Reserved.
 
-include_recipe "elk::installation"
+elk_install "installing elk"
